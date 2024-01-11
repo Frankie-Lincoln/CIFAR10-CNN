@@ -6,7 +6,7 @@ This project implements a specific architecture of convolution neural network (C
 <img width="1281" alt="Screenshot 2024-01-11 at 11 39 50 AM" src="https://github.com/Frankie-Lincoln/CIFAR10-CNN/assets/77485565/98f90b0f-fc46-48e6-9139-9eb300d61c7d">
 
 # Model Architecture
-The following diagrams show the whole model architecture and the structure of the block.
+The following diagrams show the whole model architecture and the structure of the block.  
 ![net](https://github.com/Frankie-Lincoln/CIFAR10-CNN/assets/77485565/6b43eb1c-0356-4787-9779-3f0789c2a8ff)
 ![block](https://github.com/Frankie-Lincoln/CIFAR10-CNN/assets/77485565/e9ae03de-677a-4f1f-9850-2602e3e00fbd)  
 As a whole picture, the image is first passed through a 3x3 convolution layer, which outputs 16 channels.  
